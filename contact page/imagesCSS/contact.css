@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url(forestfog.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+.contact-title
+{
+    margin-top: 100px;
+    color: #1d8337;
+    text-transform: uppercase;
+}
+.contact-title h1{
+    font-size:  32px;
+    line-height: 10px;
+
+}
+.contact-title h2{
+    font-size:  16px;
+
+}
+form
+{
+    margin-top: 50px;
+    
+}
+
+.form-control
+{
+    width: 600px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #1d8337;
+    color:white;
+    font-size: 18px;
+    margin-bottom: 16px;
+    
+}
+
+input{
+    height:45px;
+
+}
+
+form .submit
+{
+    background: #1d8337;
+    border-color: transparent;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 50px;
+    margin-top: 20px;
+
+}
+
+form .submit:hover
+{
+background-color: #2cdb66;
+cursor: pointer;
+
+}
