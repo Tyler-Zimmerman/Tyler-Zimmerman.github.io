@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     text-align: center;
-    background-image: url(forestfog.jpg);
+    background-image: url(starrysky.jpg);
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
@@ -11,7 +11,7 @@ body{
 .contact-title
 {
     margin-top: 100px;
-    color: #1d8337;
+    color: red;
     text-transform: uppercase;
 }
 .contact-title h1{
@@ -35,7 +35,7 @@ form
     background: transparent;
     border: none;
     outline: none;
-    border-bottom: 1px solid #1d8337;
+    border-bottom: 1px solid white;
     color:white;
     font-size: 18px;
     margin-bottom: 16px;
@@ -49,7 +49,7 @@ input{
 
 form .submit
 {
-    background: #1d8337;
+    background: red;
     border-color: transparent;
     color: white;
     font-size: 20px;
@@ -62,7 +62,8 @@ form .submit
 
 form .submit:hover
 {
-background-color: #2cdb66;
+background-color: #000000;
 cursor: pointer;
 
 }
+
